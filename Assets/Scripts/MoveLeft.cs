@@ -1,5 +1,5 @@
-using System.collections;
-using System.collections.Generic;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class MoveLeft : MonoBehaviour
